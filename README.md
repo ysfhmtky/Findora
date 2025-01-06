@@ -21,7 +21,7 @@ Before using Findora, you will need to install the following dependencies:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/findora.git
+    git clone https://github.com/ysfhmtky/Findora.git
     cd findora
     ```
 
