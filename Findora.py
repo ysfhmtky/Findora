@@ -16,7 +16,7 @@ ascii_art = pyfiglet.figlet_format("Findora", font="slant")
 
 def print_header():
     print(Fore.BLUE + ascii_art)
-    print(Fore.LIGHTGREEN_EX + "- By Sir.Ripper")
+    print(Fore.LIGHTGREEN_EX + "            - By Mr.CodeX")
     print(Fore.CYAN + "\nPlease choose an option:")
     print(Fore.YELLOW + "[1] DNS Records")
     print(Fore.YELLOW + "[2] Subdomain Finder")
